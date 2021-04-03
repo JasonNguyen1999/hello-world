@@ -1,5 +1,5 @@
 <h1>Hello, DevOps' world!!!</h1>
-<h2>That Arizona sky burnin' in your eyes
+<p>That Arizona sky burnin' in your eyes
 You look at me and, babe, I wanna catch on fire
 It's buried in my soul like California gold
 You found the light in me that I couldn't find
@@ -25,4 +25,4 @@ When the sun goes down
 And the band won't play
 I'll always remember us this way
 Oh, yeah
-I don't wanna be just a memory, baby, yeah… </h2>
+I don't wanna be just a memory, baby, yeah… </p>
